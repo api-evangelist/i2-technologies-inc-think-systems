@@ -1,8 +1,24 @@
 aid: i2-technologies-inc-think-systems
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/i2-technologies-inc-think-systems.png
 name: I2 Technologies Inc (THINK SYSTEMS)
-description: 'I2 Technologies Inc (THINK SYSTEMS) is a company surfaced as a portfolio company of insight-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: cybersecurity. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: 'i2 Technologies Inc was a Dallas-based supply-chain management software company founded in
+  1988 by Sanjiv Sidhu and Ken Sharma; "THINK SYSTEMS" refers to Think Systems Inc, a supply-chain planning
+  software firm i2 acquired in 1997. i2 Technologies was itself acquired by JDA Software in 2010, which
+  rebranded to Blue Yonder in 2020 and is now owned by Panasonic. This is a defunct/historical entity with
+  no independent, live developer or API surface. The enrichment pass found no attributable API to enrich;
+  the live i2group.com intelligence-analysis APIs belong to a different, unrelated company (a name collision),
+  and the "insight-partners" backing appears to be an erroneous VC-portfolio match.'
 url: https://raw.githubusercontent.com/api-evangelist/i2-technologies-inc-think-systems/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +26,27 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-note: 'Defunct/historical entity absorbed into Blue Yonder (JDA/Panasonic). No live independent API surface;
+  insight-partners attribution likely an erroneous VC-portfolio match. Not to be confused with i2 Group
+  (i2group.com), the unrelated intelligence-analysis company.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Cybersecurity
+- Supply Chain
+- Supply Chain Management
+- Enterprise Software
+- Defunct
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
