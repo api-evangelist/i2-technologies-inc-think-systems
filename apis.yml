@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-note: 'Defunct/historical entity absorbed into Blue Yonder (JDA/Panasonic). No live independent API surface;
   insight-partners attribution likely an erroneous VC-portfolio match. Not to be confused with i2 Group
   (i2group.com), the unrelated intelligence-analysis company.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
