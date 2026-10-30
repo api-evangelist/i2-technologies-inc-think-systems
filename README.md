@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-I2 Technologies Inc (THINK SYSTEMS) is a company surfaced as a portfolio company of insight-partners and added to the API Evangelist network as a stub for enrichment. Sector: cybersecurity. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: insight-partners
+i2 Technologies Inc was a Dallas-based supply-chain management software company founded in 1988 by Sanjiv Sidhu and Ken Sharma; "THINK SYSTEMS" refers to Think Systems Inc, a supply-chain planning software firm i2 acquired in 1997. i2 Technologies was itself acquired by JDA Software in 2010, which rebranded to Blue Yonder in 2020 and is now owned by Panasonic. This is a defunct/historical entity with no independent, live developer or API surface. The enrichment pass found no attributable API to enrich; the live i2group.com intelligence-analysis APIs belong to a different, unrelated company (a name collision), and the "insight-partners" backing appears to be an erroneous VC-portfolio match.
+
+**Areas:** Company · Supply Chain · Supply Chain Management · Enterprise Software · Defunct · Acquired
+
+## I2 Technologies Inc (THINK SYSTEMS) on APIs.io (historical record)
+
+Everything profiled for I2 Technologies Inc (THINK SYSTEMS) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/i2-technologies-inc-think-systems/](https://apis.io/providers/i2-technologies-inc-think-systems/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for I2 Technologies Inc (THINK SYSTEMS): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/i2-technologies-inc-think-systems/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
